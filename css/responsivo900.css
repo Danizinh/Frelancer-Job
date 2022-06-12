@@ -158,7 +158,6 @@
         font-size: 2px;
         font-weight: 900;
         width: 90vw !important;
-        height: 36vh !important;
     }
 
     .button-transparent {
@@ -173,15 +172,6 @@
     #paragraph {
         text-decoration: underline;
         margin: 10px;
-    }
-
-    #linha_completa_desktop {
-        display: none;
-
-    }
-
-    #linha_completa_mobile {
-        display: flex;
     }
 
     #logo {
@@ -354,15 +344,6 @@
         font-weight: bolder;
     }
 
-    #linha_completa_desktop {
-        display: none;
-
-    }
-
-    #linha_completa_mobile {
-        display: flex;
-    }
-
     #logo {
         width: 118vw;
         height: 3vh;
@@ -484,10 +465,8 @@
 
     .div_button_story {
         position: absolute;
-        width: 370px;
+        width: 430px;
         display: flex;
         justify-content: end;
-        margin-top: 3vh;
-        margin-right: 30px;
     }
 }
