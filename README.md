@@ -6,10 +6,10 @@
 #Below are some photos of my work from the responsive
 
 
-![Screenshot 2022-06-12 023613](https://user-images.githubusercontent.com/81580725/173221298-9d3917f4-f847-493f-a791-39c7bce32234.png)
-![Screenshot 2022-06-12 023717](https://user-images.githubusercontent.com/81580725/173221299-d450079a-2e75-429e-ac6c-afce1bf39308.png)
-![Screenshot 2022-06-12 023755](https://user-images.githubusercontent.com/81580725/173221301-a5735eea-0036-4903-b23a-a99478afb230.png)
-![Screenshot 2022-06-12 033846](https://user-images.githubusercontent.com/81580725/173221304-bf24dc63-76ab-4490-b695-2907d456ddfe.png)
-![Screenshot 2022-06-12 033913](https://user-images.githubusercontent.com/81580725/173221306-0636fe5c-41c1-4351-8e6f-df9c6dec4097.png)
-![Screenshot 2022-06-12 033941](https://user-images.githubusercontent.com/81580725/173221307-634faa49-ba3c-4126-9219-3c122ea26c21.png)
-![Screenshot 2022-06-12 034011](https://user-images.githubusercontent.com/81580725/173221309-35e80ecc-d7ed-4015-bee1-90935a974eef.png)
+![Screenshot 2022-06-12 023613](https://user-images.githubusercontent.com/81580725/173221470-6545223e-1414-4fd2-ac21-bf21e769e379.png)
+![Screenshot 2022-06-12 023717](https://user-images.githubusercontent.com/81580725/173221471-eaaadbb6-be22-4660-8dc5-114bda86d731.png)
+![Screenshot 2022-06-12 023755](https://user-images.githubusercontent.com/81580725/173221475-a9010b88-a902-4eeb-8cda-5c192cc45977.png)
+![Screenshot 2022-06-12 035850](https://user-images.githubusercontent.com/81580725/173221476-9d56cf65-c0d9-49b6-b866-dc2c0527bf0c.png)
+![Screenshot 2022-06-12 033913](https://user-images.githubusercontent.com/81580725/173221477-2e6b93b8-ecd2-482b-89b5-55ea8251e328.png)
+![Screenshot 2022-06-12 033941](https://user-images.githubusercontent.com/81580725/173221479-3e13154e-d28d-44a5-9bc3-0d10f324cc27.png)
+![Screenshot 2022-06-12 034011](https://user-images.githubusercontent.com/81580725/173221480-3aee371d-f88d-41cf-9112-a8f2f2beb898.png)
