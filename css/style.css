@@ -7,7 +7,6 @@
 html {
     background-color: #000 !important;
     background: linear-gradient(197deg, rgba(205, 88, 48, 1) 0%, rgba(138, 1, 59, 1) 13%, rgba(136, 8, 8, 1) 18%, rgba(0, 0, 0, 1) 35%) !important;
-    background-size: cover !important;
     background-attachment: fixed !important;
     background-repeat: no-repeat !important;
 }
@@ -32,6 +31,7 @@ p {
 
 h2 {
     color: #fff !important;
+    font-weight: 600 !important;
 }
 
 a {
@@ -176,13 +176,14 @@ a {
 }
 
 .button-gradient {
-    background: -webkit-linear-gradient(#FF006C, #FF622C);
+    background: linear-gradient(270deg, rgba(205,88,48,1) 0%, rgba(182,0,77,1) 100%);
     color: #fff;
     border-radius: 50px;
     border: 0;
     width: 13vw;
     height: 4vw;
     font-size: 1.3vw;
+    font-weight: 600 !important;
 }
 
 .button-transparent {
@@ -198,6 +199,7 @@ a {
 #h2-phrase {
     font-size: 3vw;
     line-height: 90%;
+    font-weight: 600;
 }
 
 
@@ -228,7 +230,7 @@ a {
 
 .gradient_font {
     font-size: 4vw;
-    background: -webkit-linear-gradient(#FF006C, #FF622C);
+    background: linear-gradient(270deg, rgba(237,114,32,1) 0%, rgba(209,0,106,1) 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-bottom: 20px;
@@ -247,7 +249,7 @@ a {
     background-color: rgba(0, 0, 0, 0.6);
     position: fixed;
     width: 100%;
-    z-index: 999;
+    z-index: 998;
 }
 
 .apresentation-text {
@@ -510,6 +512,7 @@ a {
     justify-content: space-between;
     align-items: center;
     padding: 25px;
+    height: 75px;
 }
 
 .button_wpp{
@@ -538,87 +541,23 @@ a {
     width: 345px;
 }
 
-
-@media only screen and (max-width: 600px) {
-    #text {
-        width: 76vw;
-    }
-
-    #button_title {
-        display: flex;
-        text-align: center;
-        font-size: 8vw;
-        font-weight: 900;
-    }
-
-
-    #h2-phrase {
-        display: flex;
-        align-items: center;
-        font-size: 7vw;
-        width: 76vw;
-    }
-
-    #second_title {
-        display: flex;
-        font-size: 3vw;
-        width: 102%;
-        margin: 14px 14px 25px 0px;
-    }
-
-    .home-text {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        height: 75vh;
-    }
-
-    #iframe_desktop {
-        display: none;
-    }
-
-    #iframe_mobile {
-        display: inline !important;
-        width: 82vw !important;
-        height: 28vh !important;
-        border-radius: 20px;
-        margin-left: -13px;
-    }
-
-    .assistant_iframe {
-        height: 100vh;
-    }
-
-    .button-gradient {
-        margin: 10px;
-        justify-content: space-between;
-        font-size: 16px;
-        font-weight: 900;
-        width: 30vw !important;
-        height: 43px !important;
-    }
-
-    .gradient_font {
-        font-size: 2em;
-        font-weight: bold;
-    }
-
-    .button-transparent {
-        margin: 10px;
-        /* justify-content: space-between; */
-        font-size: 15px;
-        font-weight: 200;
-        width: 30vw !important;
-        height: 45px !important;
-    }
-
-    #paragraph_second {
-        font-size: 18px !important;
-        background: -webkit-linear-gradient(#FF006C, #FF622C);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        margin: 10px;
-        font-weight: bolder;
-    }
+::-webkit-scrollbar {
+    width: 13px;
+    height: 13px;
 }
 
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(40deg, #FF006C 14%, #FF622C 64%);
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(40deg, #FF006C 14%, #FF622C 64%);
+}
+
+::-webkit-scrollbar-track {
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: inset 0px 0px 0px 0px #f0f0f0;
+}
