@@ -1,9 +1,9 @@
-# MY FREELANCE WORK 👩‍💻
+
+# This is a responsive planned project made with HTML and CSS using transitions.
+freelance work
 
 
-# my job was the responsibility of taking care of the responsive website and obviously the mobile menu
-
-#Below are some photos of my work from the responsive
+Final result
 
 
 ![Screenshot 2022-06-12 023613](https://user-images.githubusercontent.com/81580725/173221470-6545223e-1414-4fd2-ac21-bf21e769e379.png)
