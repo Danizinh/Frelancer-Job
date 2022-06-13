@@ -1,5 +1,5 @@
 
-# This is a responsive planned project made with HTML and CSS using transitions.
+This is a responsive planned project made with HTML and CSS using transitions.
 
 ## Final result
 ![Screenshot 2022-06-13 012759](https://user-images.githubusercontent.com/81580725/173279994-78745b9e-d6b3-475a-9132-872a9fdb6a46.png)
