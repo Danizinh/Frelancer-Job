@@ -1,15 +1,14 @@
 
 # This is a responsive planned project made with HTML and CSS using transitions.
-freelance work
 
+## Final result
+![Screenshot 2022-06-13 012759](https://user-images.githubusercontent.com/81580725/173279994-78745b9e-d6b3-475a-9132-872a9fdb6a46.png)
 
-Final result
+![Screenshot 2022-06-13 012841](https://user-images.githubusercontent.com/81580725/173279996-5c50e2a3-2707-49c8-8496-18326875957d.png)
 
+![Screenshot 2022-06-13 012904](https://user-images.githubusercontent.com/81580725/173279997-66d59925-d855-406e-9532-c32a08c24c31.png)
+![Screenshot 2022-06-13 012939](https://user-images.githubusercontent.com/81580725/173280001-a14e9eee-8b32-4b26-9a36-cc481647f951.png)
+![Screenshot 2022-06-13 012958](https://user-images.githubusercontent.com/81580725/173280004-8a852d00-3a0d-46e4-b39a-649d68f27d7e.png)
+![Screenshot 2022-06-13 013015](https://user-images.githubusercontent.com/81580725/173280007-6cbd0c4d-a450-4849-b197-95e8345e86e5.png)
 
-![Screenshot 2022-06-12 023613](https://user-images.githubusercontent.com/81580725/173221470-6545223e-1414-4fd2-ac21-bf21e769e379.png)
-![Screenshot 2022-06-12 023717](https://user-images.githubusercontent.com/81580725/173221471-eaaadbb6-be22-4660-8dc5-114bda86d731.png)
-![Screenshot 2022-06-12 023755](https://user-images.githubusercontent.com/81580725/173221475-a9010b88-a902-4eeb-8cda-5c192cc45977.png)
-![Screenshot 2022-06-12 035850](https://user-images.githubusercontent.com/81580725/173221476-9d56cf65-c0d9-49b6-b866-dc2c0527bf0c.png)
-![Screenshot 2022-06-12 033913](https://user-images.githubusercontent.com/81580725/173221477-2e6b93b8-ecd2-482b-89b5-55ea8251e328.png)
-![Screenshot 2022-06-12 033941](https://user-images.githubusercontent.com/81580725/173221479-3e13154e-d28d-44a5-9bc3-0d10f324cc27.png)
-![Screenshot 2022-06-12 034011](https://user-images.githubusercontent.com/81580725/173221480-3aee371d-f88d-41cf-9112-a8f2f2beb898.png)
+To start the project, just open the `index.html` file in your preferred browser.
